@@ -23,6 +23,20 @@ body {
   text-shadow: 3px 3px black;
 }
 
+#text {
+  margin-top: 70vw;
+  height: 20vw;
+  background-color: rgb(145,167,112);
+  padding: 10vw;
+}
+
+#text p {
+  font-family: font;
+  font-size: 3vw;
+  text-align: center;
+  color: white;
+}
+
 @font-face {
   font-family: font;
   src: url(winkle.otf);
